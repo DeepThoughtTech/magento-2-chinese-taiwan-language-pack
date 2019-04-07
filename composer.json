@@ -1,0 +1,27 @@
+{
+  "name": "DeepThoughtTech/magento-2-chinese-taiwan-language-pack",
+  "description": "Taiwan language package for Magento 2",
+  "homepage": "https://deepthought.tech",
+  "require": {
+  },
+  "type": "magento2-language",
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": [
+    "GPLv3"
+  ],
+  "authors": [
+    {
+      "name": "DeepThought Co., Ltd.",
+      "email": "mikimoto@deepthought.tech",
+      "homepage": "https://deepthought.tech",
+      "role": "Leader"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
