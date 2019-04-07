@@ -3,7 +3,7 @@
  *                     DeepThought Taiwan language package
  *                     NOTICE OF LICENSE
  *
- *                     This source file is subject to the GPLv3 License
+ *                     This source file is subject to the LGPLv3 License
  *                     that is bundled with this package in the file LICENSE.
  *                     It is also available through the world-wide-web at this URL:
  *                     https://github.com/DeepThoughtTech/magento-2-chinese-taiwan-language-pack/blob/master/LICENSE

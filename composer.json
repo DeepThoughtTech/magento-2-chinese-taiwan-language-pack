@@ -9,7 +9,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "license": [
-    "GPLv3"
+    "LGPL-3.0-or-later"
   ],
   "authors": [
     {
