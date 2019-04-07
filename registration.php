@@ -15,6 +15,6 @@
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
 	\Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-	'deepthought_zh_hans_tw',
+	'deepthought_zh_hant_tw',
 	__DIR__
 );
