@@ -3,6 +3,7 @@
   "description": "Taiwan language package for Magento 2",
   "homepage": "https://deepthought.tech",
   "require": {
+    "magento/framework": "102.0.*"
   },
   "type": "magento2-language",
   "version": "1.0.0",
