@@ -716,7 +716,7 @@ password,password,module,Magento_Backend
 "Reload Data","Reload Data",module,Magento_Backend
 "Browse Files...","Browse Files...",module,Magento_Backend
 Magento,Magento,module,Magento_Backend
-"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. All rights reserved.",module,Magento_Backend
+"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 DeepThought Co., Ltd. All rights reserved.",module,Magento_Backend
 "ver. %1","ver. %1",module,Magento_Backend
 "Magento Admin Panel","Magento Admin Panel",module,Magento_Backend
 "Account Setting","Account Setting",module,Magento_Backend
@@ -9648,7 +9648,7 @@ Enable,Enable,module,Magento_Cms
 "Tab Label","Tab Label",module,Magento_Config
 "Allow everything","Allow everything",module,Magento_Config
 "Magento Admin","Magento Admin",module,Magento_Config
-Dashboard,Dashboard,module,Magento_Config
+"Dashboard","儀表板",module,Magento_Config
 "Manage Stores","Manage Stores",module,Magento_Config
 "Field 2","Field 2",module,Magento_Config
 "Field 3","Field 3",module,Magento_Config
