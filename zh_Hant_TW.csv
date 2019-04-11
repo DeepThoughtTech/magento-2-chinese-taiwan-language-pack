@@ -698,12 +698,12 @@ HTTP_REFERER,HTTP_REFERER,module,Magento_Backend
 "previous page","previous page",module,Magento_Backend
 .,.,module,Magento_Backend
 javascript:history.back(),javascript:history.back(),module,Magento_Backend
-"Welcome, please sign in","Welcome, please sign in",module,Magento_Backend
+"Welcome, please sign in","請登入系統",module,Magento_Backend
 Username,Username,module,Magento_Backend
 "user name","user name",module,Magento_Backend
 Password,Password,module,Magento_Backend
 password,password,module,Magento_Backend
-"Sign in","Sign in",module,Magento_Backend
+"Sign in","登入",module,Magento_Backend
 "Select Range:","Select Range:",module,Magento_Backend
 "No Data Found","No Data Found",module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.",module,Magento_Backend
@@ -2476,7 +2476,7 @@ Download,Download,module,Magento_Customer
 "Please enter your email.","Please enter your email.",module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","If there is an account associated with %1 you will receive an email with a link to reset your password.",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.",module,Magento_Customer
-"An unspecified error occurred. Please contact us for assistance.","An unspecified error occurred. Please contact us for assistance.",module,Magento_Customer
+"An unspecified error occurred. Please contact us for assistance.","發生無法預期的錯誤，請聯絡我們的客服人員",module,Magento_Customer
 "A login and a password are required.","A login and a password are required.",module,Magento_Customer
 "New Password and Confirm New Password values didn't match.","New Password and Confirm New Password values didn't match.",module,Magento_Customer
 "Please enter a new password.","Please enter a new password.",module,Magento_Customer
@@ -2711,7 +2711,7 @@ Actions,Actions,module,Magento_Customer
 "Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link.",module,Magento_Customer
 Email,Email,module,Magento_Customer
 "Send confirmation link","Send confirmation link",module,Magento_Customer
-"Back to Sign In","Back to Sign In",module,Magento_Customer
+"Back to Sign In","回到登入頁",module,Magento_Customer
 "Change Email","Change Email",module,Magento_Customer
 "Change Email and Password","Change Email and Password",module,Magento_Customer
 "Current Password","Current Password",module,Magento_Customer
@@ -2722,7 +2722,7 @@ Email,Email,module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","Please enter your email address below to receive a password reset link.",module,Magento_Customer
 "Reset My Password","Reset My Password",module,Magento_Customer
 "Registered Customers","Registered Customers",module,Magento_Customer
-"If you have an account, sign in with your email address.","If you have an account, sign in with your email address.",module,Magento_Customer
+"If you have an account, sign in with your email address.","如果您已經是註冊用戶，請用您註冊的 Email 帳號登入",module,Magento_Customer
 Password,Password,module,Magento_Customer
 "Forgot Your Password?","Forgot Your Password?",module,Magento_Customer
 "Subscription option","Subscription option",module,Magento_Customer
@@ -2859,8 +2859,8 @@ Unlimited,Unlimited,module,Magento_Downloadable
 "Something went wrong while getting the requested content.","Something went wrong while getting the requested content.",module,Magento_Downloadable
 "My Downloadable Products","My Downloadable Products",module,Magento_Downloadable
 "We can't find the link you requested.","We can't find the link you requested.",module,Magento_Downloadable
-"Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
-"Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
+"Please sign in to download your product or purchase <a href=""%1"">%2</a>.","請登入您的帳號來下載您購買的產品或購買 <a href=""%1"">%2</a>.",module,Magento_Downloadable
+"Please sign in to download your product.","請登入您的帳號來下載您購買的產品",module,Magento_Downloadable
 "The link has expired.","The link has expired.",module,Magento_Downloadable
 "The link is not available.","The link is not available.",module,Magento_Downloadable
 "Sorry, there was an error getting requested content. Please contact the store owner.","Sorry, there was an error getting requested content. Please contact the store owner.",module,Magento_Downloadable
@@ -9680,8 +9680,8 @@ Comparable,Comparable,module,Magento_ConfigurableProduct
 "As low as: ","As low as: ",module,Magento_ConfigurableProduct
 "Contacts Section","Contacts Section",module,Magento_Contact
 Contacts,Contacts,module,Magento_Contact
-"Contact Us","Contact Us",module,Magento_Contact
-"Enable Contact Us","Enable Contact Us",module,Magento_Contact
+"Contact Us","聯絡我們",module,Magento_Contact
+"Enable Contact Us","啟用聯絡我們",module,Magento_Contact
 "Email Options","Email Options",module,Magento_Contact
 "Send Emails To","Send Emails To",module,Magento_Contact
 "Email Sender","Email Sender",module,Magento_Contact
@@ -11015,7 +11015,7 @@ Empty,Empty,module,Magento_Theme
 "1 column","1 column",module,Magento_Theme
 Configuration,Configuration,module,Magento_Theme
 "Default welcome msg!","",module,Magento_Theme
-"Copyright © 2013-present Magento, Inc. All rights reserved.","Copyright © 2013-present Magento, Inc. All rights reserved.",module,Magento_Theme
+"Copyright © 2013-present Magento, Inc. All rights reserved.","Copyright © 2019 DeepThought Co., Ltd. All rights reserved.",module,Magento_Theme
 "Design Config Grid","Design Config Grid",module,Magento_Theme
 "Rebuild design config grid index","Rebuild design config grid index",module,Magento_Theme
 "Admin empty","Admin empty",module,Magento_Theme
