@@ -355,7 +355,7 @@ Close,Close,module,Magento_AdminNotification
 "Entity type model '%1' is not found","Entity type model '%1' is not found",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","There are no product types available for export",module,Magento_AdvancedPricingImportExport
-"Related Search Terms","Related Search Terms",module,Magento_AdvancedSearch
+"Related Search Terms","相關搜尋關鍵字",module,Magento_AdvancedSearch
 "Add New Search Term","Add New Search Term",module,Magento_AdvancedSearch
 button_label,button_label,module,Magento_AdvancedSearch
 "Missing search engine parameter.","Missing search engine parameter.",module,Magento_AdvancedSearch
@@ -708,8 +708,8 @@ password,password,module,Magento_Backend
 "No Data Found","No Data Found",module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.",module,Magento_Backend
 "Last Orders","Last Orders",module,Magento_Backend
-"Last Search Terms","Last Search Terms",module,Magento_Backend
-"Top Search Terms","Top Search Terms",module,Magento_Backend
+"Last Search Terms","最新搜尋關鍵字",module,Magento_Backend
+"Top Search Terms","最熱門搜尋關鍵字",module,Magento_Backend
 "There are no search keywords.","There are no search keywords.",module,Magento_Backend
 "View Statistics For:","View Statistics For:",module,Magento_Backend
 "All Websites","All Websites",module,Magento_Backend
@@ -2023,7 +2023,7 @@ Pages,Pages,module,Magento_Cms
 "File validation failed.","File validation failed.",module,Magento_Cms
 "We can't upload the file right now.","We can't upload the file right now.",module,Magento_Cms
 "We can't delete root directory %1 right now.","We can't delete root directory %1 right now.",module,Magento_Cms
-"Privacy and Cookie Policy","Privacy and Cookie Policy",module,Magento_Cms
+"Privacy and Cookie Policy","隱私權政策",module,Magento_Cms
 "Error message","Error message",module,Magento_Cms
 LocalizedException,LocalizedException,module,Magento_Cms
 RuntimeException,RuntimeException,module,Magento_Cms
@@ -5857,7 +5857,7 @@ Search,Search,module,Magento_Sales
 "Search Term","Search Term",module,Magento_Search
 Results,Results,module,Magento_Search
 Uses,Uses,module,Magento_Search
-"Search Terms","Search Terms",module,Magento_Search
+"Search Terms","搜尋關鍵字",module,Magento_Search
 "Search Synonyms","Search Synonyms",module,Magento_Search
 "New Synonym Group","New Synonym Group",module,Magento_Search
 Back,Back,module,Magento_Search
@@ -5906,7 +5906,7 @@ Marketing,Marketing,module,Magento_Search
 "Please select searches.","Please select searches.",module,Magento_Search
 "Total of %1 record(s) were deleted.","Total of %1 record(s) were deleted.",module,Magento_Search
 Reports,Reports,module,Magento_Search
-"Search Terms Report","Search Terms Report",module,Magento_Search
+"Search Terms Report","關鍵字報告",module,Magento_Search
 "You saved the search term.","You saved the search term.",module,Magento_Search
 "Something went wrong while saving the search query.","Something went wrong while saving the search query.",module,Magento_Search
 "You already have an identical search term query.","You already have an identical search term query.",module,Magento_Search
@@ -5920,7 +5920,7 @@ Delete,Delete,module,Magento_Search
 "Are you sure you want to delete synonym group with id: %1?","Are you sure you want to delete synonym group with id: %1?",module,Magento_Search
 View/Edit,View/Edit,module,Magento_Search
 "Search entire store here...","在此搜尋全部商店的產品...",module,Magento_Search
-"There are no search terms available.","There are no search terms available.",module,Magento_Search
+"There are no search terms available.","很抱歉沒有這個關鍵字",module,Magento_Search
 "Account Activity","Account Activity",module,Magento_Security
 "All other open sessions for this account were terminated.","All other open sessions for this account were terminated.",module,Magento_Security
 "We couldn't logout because of an error.","We couldn't logout because of an error.",module,Magento_Security
@@ -8796,7 +8796,7 @@ Actions,Actions,module,Magento_AdminNotification
 "Enable Search Suggestions","Enable Search Suggestions",module,Magento_AdvancedSearch
 "Search Suggestions Count","Search Suggestions Count",module,Magento_AdvancedSearch
 "Show Results Count for Each Suggestion","Show Results Count for Each Suggestion",module,Magento_AdvancedSearch
-"Related search terms","Related search terms",module,Magento_AdvancedSearch
+"Related search terms","相關搜尋關鍵字",module,Magento_AdvancedSearch
 "Did you mean","Did you mean",module,Magento_AdvancedSearch
 ID,ID,module,Magento_AdvancedSearch
 "Search Query","Search Query",module,Magento_AdvancedSearch
@@ -9333,11 +9333,11 @@ Yes,Yes,module,Magento_CatalogRule
 No,No,module,Magento_CatalogRule
 "Catalog Section","Catalog Section",module,Magento_CatalogSearch
 "Catalog Search","Catalog Search",module,Magento_CatalogSearch
-"Popular Search Terms","Popular Search Terms",module,Magento_CatalogSearch
+"Popular Search Terms","熱門搜尋關鍵字",module,Magento_CatalogSearch
 "Minimal Query Length","Minimal Query Length",module,Magento_CatalogSearch
 "Maximum Query Length","Maximum Query Length",module,Magento_CatalogSearch
 "Number of top search results to cache","Number of top search results to cache",module,Magento_CatalogSearch
-"Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time.","Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time.",module,Magento_CatalogSearch
+"Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time.","可以被快取的熱門關鍵字數量。 使用 “0” 表示要快取所有的搜尋第二遍以上的關鍵字。",module,Magento_CatalogSearch
 "Autocomplete Limit","Autocomplete Limit",module,Magento_CatalogSearch
 "Enable EAV Indexer","Enable EAV Indexer",module,Magento_CatalogSearch
 "Rebuild Catalog product fulltext search index","Rebuild Catalog product fulltext search index",module,Magento_CatalogSearch
@@ -9635,7 +9635,7 @@ Design,Design,module,Magento_Cms
 From,From,module,Magento_Cms
 To,To,module,Magento_Cms
 "New Theme","New Theme",module,Magento_Cms
-"-- Please Select --","-- Please Select --",module,Magento_Cms
+"-- Please Select --","-- 請選擇... --",module,Magento_Cms
 "New Layout","New Layout",module,Magento_Cms
 Disable,Disable,module,Magento_Cms
 Enable,Enable,module,Magento_Cms
@@ -9648,7 +9648,7 @@ Enable,Enable,module,Magento_Cms
 "Tab Label","Tab Label",module,Magento_Config
 "Allow everything","Allow everything",module,Magento_Config
 "Magento Admin","Magento Admin",module,Magento_Config
-"Dashboard","儀表板",module,Magento_Config
+"Dashboard","Dashboard",module,Magento_Config
 "Manage Stores","Manage Stores",module,Magento_Config
 "Field 2","Field 2",module,Magento_Config
 "Field 3","Field 3",module,Magento_Config
@@ -10609,7 +10609,7 @@ Carts,Carts,module,Magento_Quote
 Marketing,Marketing,module,Magento_Reports
 "Products in Cart","Products in Cart",module,Magento_Reports
 "Abandoned Cart","Abandoned Cart",module,Magento_Reports
-"Search Terms","Search Terms",module,Magento_Reports
+"Search Terms","搜尋關鍵字",module,Magento_Reports
 "By Customers","By Customers",module,Magento_Reports
 "By Products","By Products",module,Magento_Reports
 Refunds,Refunds,module,Magento_Reports
