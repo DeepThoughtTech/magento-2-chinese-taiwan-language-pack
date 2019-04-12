@@ -699,10 +699,10 @@ HTTP_REFERER,HTTP_REFERER,module,Magento_Backend
 .,.,module,Magento_Backend
 javascript:history.back(),javascript:history.back(),module,Magento_Backend
 "Welcome, please sign in","請登入系統",module,Magento_Backend
-Username,Username,module,Magento_Backend
-"user name","user name",module,Magento_Backend
-Password,Password,module,Magento_Backend
-password,password,module,Magento_Backend
+"Username","帳號",module,Magento_Backend
+"user name","使用者姓名",module,Magento_Backend
+"Password","密碼",module,Magento_Backend
+"password","密碼",module,Magento_Backend
 "Sign in","登入",module,Magento_Backend
 "Select Range:","Select Range:",module,Magento_Backend
 "No Data Found","No Data Found",module,Magento_Backend
@@ -6794,8 +6794,8 @@ Recommended,Recommended,module,Magento_User
 Forced,Forced,module,Magento_User
 "Sorry, but this password has already been used. Please create another.","Sorry, but this password has already been used. Please create another.",module,Magento_User
 email,email,module,Magento_User
-password,password,module,Magento_User
-username,username,module,Magento_User
+"password","密碼",module,Magento_User
+"username","帳號",module,Magento_User
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_User
 "More permissions are needed to access this.","More permissions are needed to access this.",module,Magento_User
 "The password reset token is incorrect. Verify the token and try again.","The password reset token is incorrect. Verify the token and try again.",module,Magento_User
@@ -7204,7 +7204,7 @@ Compact,Compact,module,MSP_ReCaptcha
 "Dark Theme","Dark Theme",module,MSP_ReCaptcha
 "reCaptcha v2","reCaptcha v2",module,MSP_ReCaptcha
 "Invisible reCaptcha","Invisible reCaptcha",module,MSP_ReCaptcha
-Username,Username,module,MSP_TwoFactorAuth
+"Username","帳號",module,MSP_TwoFactorAuth
 "Provider code","Provider code",module,MSP_TwoFactorAuth
 "Unknown user %1","Unknown user %1",module,MSP_TwoFactorAuth
 "Provider %1 has been reset for user %2","Provider %1 has been reset for user %2",module,MSP_TwoFactorAuth
@@ -11166,7 +11166,7 @@ Edit,Edit,module,Magento_UrlRewrite
 "Password Change","Password Change",module,Magento_User
 Unlock,Unlock,module,Magento_User
 ID,ID,module,Magento_User
-Username,Username,module,Magento_User
+"Username","帳號",module,Magento_User
 "Last login","Last login",module,Magento_User
 Failures,Failures,module,Magento_User
 Unlocked,Unlocked,module,Magento_User
