@@ -81,7 +81,7 @@ or,or,module,Amazon_Core
 "Welcome back!","Welcome back!",module,Amazon_Login
 "A shop account for this email address already exists. Please enter your shop accounts password to log in without leaving the shop.","A shop account for this email address already exists. Please enter your shop accounts password to log in without leaving the shop.",module,Amazon_Login
 "* Required Fields","* Required Fields",module,Amazon_Login
-Password,Password,module,Amazon_Login
+"Password","密碼",module,Amazon_Login
 Ok,Ok,module,Amazon_Login
 "Continue as Guest","Continue as Guest",module,Amazon_Login
 "Forgot Your Password?","忘記密碼了嗎？",module,Amazon_Login
@@ -509,11 +509,11 @@ Shipping,Shipping,module,Magento_Backend
 "Last Name","Last Name",module,Magento_Backend
 Email,Email,module,Magento_Backend
 "User Email","User Email",module,Magento_Backend
-"New Password","New Password",module,Magento_Backend
-"Password Confirmation","Password Confirmation",module,Magento_Backend
+"New Password","新密碼",module,Magento_Backend
+"Password Confirmation","密碼確認",module,Magento_Backend
 "Interface Locale","Interface Locale",module,Magento_Backend
 "Current User Identity Verification","Current User Identity Verification",module,Magento_Backend
-"Your Password","Your Password",module,Magento_Backend
+"Your Password","您的密碼",module,Magento_Backend
 "Save Cache Settings","Save Cache Settings",module,Magento_Backend
 "Catalog Rewrites","Catalog Rewrites",module,Magento_Backend
 Refresh,Refresh,module,Magento_Backend
@@ -7640,7 +7640,7 @@ Total:,Total:,module,Magento_Checkout
 "Shipping Method:","Shipping Method:",module,Magento_Checkout
 "Payment Method:","Payment Method:",module,Magento_Checkout
 "Date & Time:","Date & Time:",module,Magento_Checkout
-"Sign In","Sign In",module,Magento_Checkout
+"Sign In","登入",module,Magento_Checkout
 "Email Address","Email Address",module,Magento_Checkout
 Password,Password,module,Magento_Checkout
 "Forgot Your Password?","忘記密碼了嗎？",module,Magento_Checkout
