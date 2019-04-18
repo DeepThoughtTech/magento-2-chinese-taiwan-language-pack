@@ -599,7 +599,7 @@ To,To,module,Magento_Backend
 "[ deleted ]","[ deleted ]",module,Magento_Backend
 "Select All","Select All",module,Magento_Backend
 " [deleted]"," [deleted]",module,Magento_Backend
-"We couldn't find any records.","We couldn't find any records.",module,Magento_Backend
+"We couldn't find any records.","沒有資料",module,Magento_Backend
 "Add New","Add New",module,Magento_Backend
 "Invalid export type supplied for grid export block","Invalid export type supplied for grid export block",module,Magento_Backend
 Export,Export,module,Magento_Backend
@@ -748,12 +748,12 @@ Minute,Minute,module,Magento_Backend
 Catalog,Catalog,module,Magento_Backend
 JavaScript/CSS,JavaScript/CSS,module,Magento_Backend
 "JavaScript/CSS Cache","JavaScript/CSS Cache",module,Magento_Backend
-"No records found.","No records found.",module,Magento_Backend
+"No records found.","沒有資料",module,Magento_Backend
 Images,Images,module,Magento_Backend
 "Big Image","Big Image",module,Magento_Backend
 Thumbnail,Thumbnail,module,Magento_Backend
 "Additional Settings","Additional Settings",module,Magento_Backend
-"records found","records found",module,Magento_Backend
+"records found","筆資料",module,Magento_Backend
 selected,selected,module,Magento_Backend
 "per page","per page",module,Magento_Backend
 "Previous page","Previous page",module,Magento_Backend
@@ -1930,7 +1930,7 @@ Edit,Edit,module,Magento_Checkout
 Loading...,Loading...,module,Magento_Checkout
 "Order #","Order #",module,Magento_Checkout
 "Proceed to Checkout","Proceed to Checkout",module,Magento_Checkout
-"Product Name","Product Name",module,Magento_Checkout
+"Product Name","商品名稱",module,Magento_Checkout
 "Incl. Tax","Incl. Tax",module,Magento_Checkout
 "Your order number is: %1.","Your order number is: %1.",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","Your order # is: <span>%1</span>.",module,Magento_Checkout
@@ -7798,7 +7798,7 @@ Password:,Password:,module,Magento_Theme
 "This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Ui
 Assign,Assign,module,Magento_Ui
 Options,Options,module,Magento_Ui
-"records found","records found",module,Magento_Ui
+"records found","筆資料",module,Magento_Ui
 selected,selected,module,Magento_Ui
 of,of,module,Magento_Ui
 Filters,Filters,module,Magento_Ui
@@ -7915,7 +7915,7 @@ Ok,Ok,lib,lib/web/mage/adminhtml/backup.js
 "Insert Variable","Insert Variable",lib,lib/web/mage/adminhtml/wysiwyg/tiny_mce/plugins/magentovariable/editor_plugin.js
 "Insert Widget","Insert Widget",lib,lib/web/mage/adminhtml/wysiwyg/tiny_mce/plugins/magentowidget/editor_plugin.js
 "The widget %1 is no longer available. Select a different widget.","The widget %1 is no longer available. Select a different widget.",lib,lib/web/mage/adminhtml/wysiwyg/widget.js
-"No records found.","No records found.",lib,lib/web/mage/backend/suggest.js
+"No records found.","沒有資料",lib,lib/web/mage/backend/suggest.js
 "Recent items","Recent items",lib,lib/web/mage/backend/suggest.js
 "Show all...","Show all...",lib,lib/web/mage/backend/suggest.js
 "Please enter a number greater 0 in this field.","Please enter a number greater 0 in this field.",lib,lib/web/mage/backend/validation.js
@@ -10045,7 +10045,7 @@ OAuth,OAuth,module,Magento_Integration
 "Integration configuration file","Integration configuration file",module,Magento_Integration
 "Integrations API Configuration","Integrations API Configuration",module,Magento_Integration
 "Integrations API configuration file","Integrations API configuration file",module,Magento_Integration
-"We couldn't find any records.","We couldn't find any records.",module,Magento_Integration
+"We couldn't find any records.","沒有資料",module,Magento_Integration
 Status,Status,module,Magento_Integration
 "Are you sure you want to delete this stock?","Are you sure you want to delete this stock?",module,Magento_InventoryAdminUi
 Inventory,Inventory,module,Magento_InventoryAdminUi
