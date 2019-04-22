@@ -502,7 +502,7 @@ Shipping,Shipping,module,Magento_Backend
 "All Store Views","All Store Views",module,Magento_Backend
 "What is this?","What is this?",module,Magento_Backend
 "Save Account","Save Account",module,Magento_Backend
-"My Account","My Account",module,Magento_Backend
+"My Account","個人資料",module,Magento_Backend
 "Account Information","Account Information",module,Magento_Backend
 "User Name","User Name",module,Magento_Backend
 "First Name","First Name",module,Magento_Backend
@@ -2680,7 +2680,7 @@ Change,Change,module,Magento_Customer
 Newsletters,Newsletters,module,Magento_Customer
 "You are subscribed to ""General Subscription"".","You are subscribed to ""General Subscription"".",module,Magento_Customer
 or,or,module,Magento_Customer
-"My Account","My Account",module,Magento_Customer
+"My Account","個人資料",module,Magento_Customer
 "Default Addresses","Default Addresses",module,Magento_Customer
 "Change Billing Address","Change Billing Address",module,Magento_Customer
 "You have no default billing address in your address book.","You have no default billing address in your address book.",module,Magento_Customer
@@ -7071,7 +7071,7 @@ Page,Page,module,Magento_Widget
 "Missing key ""model"" in Wishlist value data","Missing key ""model"" in Wishlist value data",module,Magento_WishlistGraphQl
 "Wish List","Wish List",module,Magento_Wishlist
 "Wish List Sharing","Wish List Sharing",module,Magento_Wishlist
-"My Wish List","我的待購清單",module,Magento_Wishlist
+"My Wish List","待購清單",module,Magento_Wishlist
 "%1's Wish List","%1's Wish List",module,Magento_Wishlist
 "Page not found.","Page not found.",module,Magento_Wishlist
 "We can't specify a product.","We can't specify a product.",module,Magento_Wishlist
@@ -11252,7 +11252,7 @@ Conditions,Conditions,module,Magento_Widget
 "General Options","General Options",module,Magento_Wishlist
 Enabled,Enabled,module,Magento_Wishlist
 "Show in Sidebar","Show in Sidebar",module,Magento_Wishlist
-"My Wish List Link","我的待購清單連結",module,Magento_Wishlist
+"My Wish List Link","待購清單",module,Magento_Wishlist
 "Display Wish List Summary","Display Wish List Summary",module,Magento_Wishlist
 "Enable RSS","Enable RSS",module,Magento_Wishlist
 "No Items Found","No Items Found",module,Magento_Wishlist
@@ -11267,7 +11267,7 @@ Configure,Configure,module,Magento_Wishlist
 Delete,Delete,module,Magento_Wishlist
 "Product Details and Comment","Product Details and Comment",module,Magento_Wishlist
 "Add To Wishlist","Add To Wishlist",module,Magento_Wishlist
-"My Account","My Account",theme,frontend/Magento/luma
+"My Account","個人資料",theme,frontend/Magento/luma
 "Address Book","Address Book",theme,frontend/Magento/luma
 "Account Information","Account Information",theme,frontend/Magento/luma
 "Mageplaza Extensions","Mageplaza Extensions",module,Mageplaza_Core
