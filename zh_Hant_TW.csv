@@ -5707,7 +5707,7 @@ Apply,Apply,module,Magento_Sales
 Remove,Remove,module,Magento_Sales
 "Address Information","Address Information",module,Magento_Sales
 "Order Total","Order Total",module,Magento_Sales
-"Order Currency:","Order Currency:",module,Magento_Sales
+"Order Currency:","訂單幣別：",module,Magento_Sales
 "Same As Billing Address","Same As Billing Address",module,Magento_Sales
 "Select from existing customer addresses:","Select from existing customer addresses:",module,Magento_Sales
 "Add New Address","Add New Address",module,Magento_Sales
@@ -8943,7 +8943,7 @@ Tools,Tools,module,Magento_Backend
 "Flush Js/Css","Flush Js/Css",module,Magento_Backend
 "Flush Static Files","Flush Static Files",module,Magento_Backend
 "Web Setup Wizard","Web Setup Wizard",module,Magento_Backend
-Currency,Currency,module,Magento_Backend
+"Currency","顯示幣別",module,Magento_Backend
 Communications,Communications,module,Magento_Backend
 Services,Services,module,Magento_Backend
 Advanced,Advanced,module,Magento_Backend
@@ -9258,7 +9258,7 @@ Amount,Amount,module,Magento_Braintree
 "Settlement Response Text","Settlement Response Text",module,Magento_Braintree
 "Refund Ids","Refund Ids",module,Magento_Braintree
 "Settlement Batch ID","Settlement Batch ID",module,Magento_Braintree
-Currency,Currency,module,Magento_Braintree
+"Currency","顯示幣別",module,Magento_Braintree
 Select...,Select...,module,Magento_Bundle
 Status,Status,module,Magento_Bundle
 Thumbnail,Thumbnail,module,Magento_Bundle
@@ -9704,7 +9704,7 @@ Contacts,Contacts,module,Magento_Contact
 "Success History Lifetime","Success History Lifetime",module,Magento_Cron
 "Failure History Lifetime","Failure History Lifetime",module,Magento_Cron
 "Use Separate Process","Use Separate Process",module,Magento_Cron
-Currency,Currency,module,Magento_CurrencySymbol
+"Currency","顯示幣別",module,Magento_CurrencySymbol
 CSV,CSV,module,Magento_CustomerImportExport
 "Excel XML","Excel XML",module,Magento_CustomerImportExport
 "All Customers","All Customers",module,Magento_Customer
@@ -9864,7 +9864,7 @@ Size,Size,module,Magento_Dhl
 "Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Dhl
 "Sort Order","Sort Order",module,Magento_Dhl
 Debug,Debug,module,Magento_Dhl
-"Currency Setup","Currency Setup",module,Magento_Directory
+"Currency Setup","幣別設定",module,Magento_Directory
 "Currency Options","Currency Options",module,Magento_Directory
 "Base Currency","Base Currency",module,Magento_Directory
 "Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").",module,Magento_Directory
